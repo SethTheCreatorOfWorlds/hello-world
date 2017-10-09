@@ -1,2 +1,2 @@
 # hello-world
-Description (optional)
+Description is optional, header is a must!
